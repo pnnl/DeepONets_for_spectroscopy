@@ -11,9 +11,7 @@ Code structure from:
 
 import os
 
-#import numpy as np
 import scipy.io
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3' 
 
 
 import jax
