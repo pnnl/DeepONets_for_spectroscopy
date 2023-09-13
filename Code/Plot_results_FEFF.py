@@ -7,7 +7,6 @@ Created August 2023
 USAGE: 
     For plotting the results of training using the DeepONet code to predict
     FEFF profiles
-
 """
 
 import numpy as np
